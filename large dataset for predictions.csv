@@ -1,0 +1,601 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Assessment Score,Study Time Per Day,Material Name,Material Level,IQ of Student
+Kimberly Stewart,16,Male,India,Maharashtra,Pune,Doctor,Middle,Beginner,Intermediate,Science,69,4.3,Textbook,Advanced,94
+Jennifer Williams,15,Female,USA,California,San Francisco,Engineer,Low,Beginner,Beginner,Computer Science,33,2.7,Video Lesson,Basic,102
+Dennis Rodriguez,15,Female,Australia,Queensland,Gold Coast,Farmer,Middle,Beginner,Advanced,Computer Science,55,0.9,Video Lesson,Basic,93
+Natasha Lee MD,12,Male,Australia,Victoria,Melbourne,Engineer,High,Beginner,Intermediate,Science,80,2.3,Textbook,Advanced,102
+Michelle Winters DDS,9,Female,Canada,Ontario,Ottawa,Teacher,Low,Intermediate,Beginner,Computer Science,80,1.7,Textbook,Medium,106
+Bradley Jones,18,Male,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Advanced,English,29,1.9,Practice Worksheet,Medium,88
+Andrew Olsen,13,Male,Canada,Quebec,Quebec City,Doctor,High,Beginner,Intermediate,Science,26,4.9,Textbook,Basic,133
+Benjamin Gibson,14,Male,UK,Scotland,Glasgow,Business,High,Intermediate,Beginner,English,72,1.1,Textbook,Basic,122
+Daniel Krause,18,Female,Canada,British Columbia,Victoria,Engineer,High,Advanced,Intermediate,Science,77,1.6,Interactive Quiz,Basic,91
+Eric Cohen,8,Female,UK,Wales,Swansea,Teacher,Middle,Advanced,Intermediate,Computer Science,43,2.7,Online Course,Advanced,122
+Laura Drake,7,Female,Canada,Ontario,Ottawa,Doctor,Low,Advanced,Beginner,Math,94,4.4,Video Lesson,Advanced,133
+Sarah Williams,14,Male,UK,Scotland,Edinburgh,Business,Middle,Advanced,Advanced,Math,70,5,Practice Worksheet,Medium,87
+Cameron Dawson,17,Female,Australia,New South Wales,Sydney,Engineer,Middle,Advanced,Beginner,Computer Science,86,5,Online Course,Advanced,136
+Vincent Moore,13,Male,Australia,Victoria,Melbourne,Business,Middle,Beginner,Advanced,Math,43,3.8,Practice Worksheet,Basic,101
+Adam Rivera,12,Female,India,Delhi,New Delhi,Doctor,Low,Intermediate,Beginner,Math,85,3.7,Textbook,Advanced,120
+Loretta Ferguson,17,Male,Australia,Victoria,Melbourne,Engineer,High,Beginner,Advanced,English,15,1.8,Practice Worksheet,Basic,99
+Carrie Allen,15,Male,Australia,New South Wales,Newcastle,Unemployed,Low,Advanced,Advanced,English,69,1.9,Video Lesson,Advanced,86
+Aaron White,15,Male,Australia,Queensland,Gold Coast,Unemployed,High,Advanced,Beginner,Science,13,1,Video Lesson,Basic,124
+Matthew Mason,14,Female,India,Delhi,New Delhi,Teacher,High,Beginner,Advanced,History,71,1.3,Video Lesson,Basic,82
+Bethany Guzman,17,Female,USA,New York,NYC,Unemployed,Middle,Beginner,Advanced,Math,25,4,Practice Worksheet,Basic,137
+Kendra Rhodes,17,Male,Canada,Quebec,Montreal,Doctor,Middle,Beginner,Beginner,History,76,2.2,Video Lesson,Advanced,115
+Peter Parsons,18,Male,Australia,New South Wales,Newcastle,Farmer,Low,Beginner,Advanced,Science,34,2.8,Online Course,Advanced,133
+Jason Adkins,15,Male,Australia,Queensland,Brisbane,Farmer,Middle,Intermediate,Intermediate,History,89,2.1,Practice Worksheet,Basic,96
+Shannon Bailey,7,Male,USA,New York,NYC,Teacher,Middle,Intermediate,Beginner,History,44,1.9,Interactive Quiz,Advanced,106
+James Hartman,12,Male,UK,England,Manchester,Doctor,High,Beginner,Advanced,Science,21,2.7,Practice Worksheet,Basic,112
+Matthew Thornton,15,Female,Australia,New South Wales,Sydney,Doctor,High,Intermediate,Beginner,English,36,2.3,Online Course,Medium,96
+Kelly Hale,11,Male,UK,England,London,Business,Low,Beginner,Intermediate,English,36,4.3,Practice Worksheet,Basic,140
+Sabrina Smith,8,Female,Canada,Ontario,Ottawa,Doctor,Low,Beginner,Intermediate,Computer Science,66,1.3,Practice Worksheet,Basic,137
+Rose Pratt,12,Female,Canada,Ontario,Toronto,Farmer,Low,Intermediate,Advanced,History,49,2.3,Video Lesson,Advanced,101
+Jimmy Ryan,11,Male,India,Karnataka,Mysore,Teacher,Middle,Intermediate,Advanced,Science,85,4,Video Lesson,Basic,118
+Michelle Carter,18,Male,Canada,Ontario,Toronto,Unemployed,Middle,Intermediate,Beginner,Math,5,0.6,Video Lesson,Medium,118
+Brandon Moreno,16,Male,Australia,New South Wales,Newcastle,Unemployed,Low,Beginner,Beginner,Science,36,3.7,Online Course,Advanced,87
+James Goodwin,11,Female,UK,Scotland,Glasgow,Farmer,High,Beginner,Advanced,History,46,2.4,Interactive Quiz,Medium,99
+Duane Matthews,14,Female,Canada,Quebec,Quebec City,Farmer,Low,Beginner,Advanced,English,29,1.2,Video Lesson,Advanced,107
+Brandon Williams DVM,14,Female,Australia,Victoria,Geelong,Business,Low,Intermediate,Advanced,Math,34,4.3,Practice Worksheet,Basic,91
+Rachel Jones,15,Male,Canada,Ontario,Toronto,Farmer,Low,Intermediate,Advanced,Math,13,4.8,Textbook,Basic,124
+Amber Moore,12,Male,India,Delhi,New Delhi,Engineer,Low,Beginner,Intermediate,History,96,4.7,Textbook,Basic,108
+David Hughes,8,Male,Australia,Victoria,Melbourne,Unemployed,Low,Beginner,Intermediate,Science,30,1.9,Online Course,Advanced,94
+Danielle Williams,17,Female,Australia,New South Wales,Newcastle,Business,Low,Advanced,Intermediate,Science,75,3.5,Textbook,Basic,104
+Teresa Macias,6,Female,India,Delhi,New Delhi,Business,Middle,Advanced,Beginner,English,4,2.4,Online Course,Basic,90
+Timothy Webb,17,Female,USA,Texas,Houston,Business,Low,Intermediate,Advanced,Math,81,2.2,Textbook,Advanced,131
+Diane Hinton,13,Female,USA,Texas,Houston,Farmer,High,Beginner,Advanced,Science,38,2.9,Online Course,Advanced,86
+Brian Morris,15,Male,Australia,Victoria,Melbourne,Teacher,High,Beginner,Advanced,Computer Science,31,0.8,Video Lesson,Medium,140
+Kimberly Ware,18,Male,India,Karnataka,Mysore,Unemployed,High,Intermediate,Beginner,English,49,4.4,Practice Worksheet,Medium,119
+David Bush,11,Male,Australia,Queensland,Gold Coast,Engineer,High,Beginner,Beginner,Computer Science,49,1.3,Textbook,Medium,100
+Betty Holmes,7,Male,Canada,British Columbia,Vancouver,Farmer,Middle,Advanced,Intermediate,Science,38,2.1,Interactive Quiz,Advanced,116
+Nicole Hudson,8,Female,USA,New York,Buffalo,Farmer,Low,Advanced,Beginner,Science,20,4.2,Online Course,Advanced,127
+Noah Cooper,10,Female,Australia,Queensland,Brisbane,Business,Low,Intermediate,Beginner,Math,17,0.6,Online Course,Basic,93
+Nicholas Reyes,8,Female,UK,Scotland,Edinburgh,Unemployed,Middle,Beginner,Advanced,Math,57,4.8,Interactive Quiz,Basic,136
+Bryan Nelson,18,Female,USA,California,San Francisco,Unemployed,Low,Intermediate,Advanced,Computer Science,25,2.5,Textbook,Basic,122
+Heather Miller,9,Male,India,Karnataka,Bangalore,Farmer,High,Beginner,Beginner,Computer Science,78,3.8,Interactive Quiz,Medium,139
+Carol Hampton,11,Female,Canada,Quebec,Quebec City,Unemployed,Middle,Intermediate,Beginner,History,83,2.8,Online Course,Advanced,103
+Abigail Jones,14,Male,UK,Wales,Cardiff,Engineer,High,Beginner,Beginner,History,90,3.1,Textbook,Advanced,96
+Patricia Coleman,8,Male,UK,Scotland,Edinburgh,Business,High,Intermediate,Intermediate,Science,38,4.3,Online Course,Advanced,80
+Mr. Zachary Mcdowell,12,Male,Canada,Quebec,Quebec City,Engineer,High,Beginner,Beginner,Science,72,4.6,Online Course,Basic,133
+Lucas Torres,12,Male,Canada,British Columbia,Vancouver,Unemployed,Middle,Intermediate,Intermediate,Math,40,2.4,Practice Worksheet,Medium,106
+Misty Stephens,9,Female,Australia,Queensland,Gold Coast,Engineer,Low,Intermediate,Beginner,Computer Science,0,1.5,Practice Worksheet,Basic,124
+Kathleen Melendez,6,Male,USA,California,Los Angeles,Unemployed,High,Advanced,Intermediate,Math,64,4.7,Practice Worksheet,Medium,107
+Linda Mccoy,15,Male,Canada,British Columbia,Vancouver,Engineer,Low,Advanced,Advanced,Science,44,0.5,Textbook,Medium,114
+Alan Matthews,14,Male,USA,California,San Francisco,Unemployed,Low,Intermediate,Intermediate,Computer Science,24,4.2,Practice Worksheet,Advanced,129
+Kenneth Wilson,10,Female,India,Karnataka,Mysore,Unemployed,Low,Beginner,Advanced,Computer Science,76,3,Interactive Quiz,Advanced,110
+Allison Gilmore,13,Female,Canada,Ontario,Ottawa,Unemployed,Low,Intermediate,Intermediate,English,40,3.6,Online Course,Advanced,137
+Holly Barber,12,Male,Canada,Quebec,Montreal,Doctor,High,Intermediate,Advanced,Science,34,3.9,Video Lesson,Advanced,109
+James Morales,10,Female,Canada,British Columbia,Victoria,Farmer,High,Intermediate,Beginner,English,41,2,Video Lesson,Basic,136
+James Diaz,15,Female,Canada,Quebec,Quebec City,Unemployed,High,Advanced,Advanced,History,39,2.5,Interactive Quiz,Medium,82
+Karen Miller,13,Female,USA,New York,NYC,Business,Low,Advanced,Advanced,Computer Science,69,0.6,Interactive Quiz,Medium,133
+Alison Newton,15,Female,India,Maharashtra,Pune,Unemployed,High,Intermediate,Advanced,Computer Science,86,4.1,Online Course,Medium,118
+Christopher Cowan,17,Male,Canada,Ontario,Ottawa,Doctor,Low,Beginner,Intermediate,Computer Science,11,1.6,Textbook,Advanced,118
+Ronald Weaver,18,Female,Australia,Queensland,Gold Coast,Doctor,High,Beginner,Beginner,Computer Science,91,4,Practice Worksheet,Advanced,131
+Michael Burns,18,Female,USA,New York,Buffalo,Doctor,Low,Advanced,Advanced,History,16,4.9,Online Course,Medium,126
+Amy Rhodes,11,Female,UK,England,Manchester,Doctor,Low,Beginner,Intermediate,Science,38,2.6,Video Lesson,Advanced,109
+Daniel Nielsen,11,Male,USA,New York,NYC,Engineer,Low,Advanced,Beginner,Math,28,2.3,Video Lesson,Basic,124
+Rachel Ramirez,12,Male,Canada,Quebec,Quebec City,Engineer,Middle,Intermediate,Intermediate,Computer Science,0,2.4,Interactive Quiz,Advanced,104
+Christopher Atkins,12,Female,India,Maharashtra,Mumbai,Teacher,Middle,Advanced,Intermediate,Computer Science,8,4.6,Textbook,Basic,123
+Andrew Mahoney,10,Female,India,Delhi,New Delhi,Doctor,Middle,Beginner,Intermediate,Computer Science,11,1.8,Practice Worksheet,Advanced,127
+Steven Ryan,7,Female,Australia,Victoria,Melbourne,Doctor,Low,Advanced,Intermediate,English,22,2.3,Practice Worksheet,Medium,114
+Amanda Davis,14,Male,India,Delhi,New Delhi,Teacher,Low,Advanced,Advanced,Math,16,2.3,Practice Worksheet,Advanced,129
+Jillian Thomas,15,Male,UK,England,Manchester,Unemployed,Middle,Beginner,Beginner,English,2,2.1,Interactive Quiz,Advanced,94
+Melissa Ford,11,Female,UK,England,Manchester,Engineer,Middle,Advanced,Advanced,Math,36,2,Interactive Quiz,Advanced,88
+Anthony Ryan,17,Female,UK,Wales,Swansea,Engineer,Middle,Intermediate,Intermediate,History,62,3.5,Interactive Quiz,Medium,80
+Chris Thompson,13,Male,UK,Scotland,Edinburgh,Engineer,Low,Intermediate,Intermediate,History,6,0.9,Interactive Quiz,Advanced,123
+Michael Thompson,6,Female,Canada,Quebec,Quebec City,Farmer,Middle,Advanced,Advanced,Science,27,3.5,Video Lesson,Basic,85
+Juan Jackson,15,Male,USA,Texas,Houston,Teacher,Low,Beginner,Intermediate,History,86,3.4,Interactive Quiz,Medium,85
+Jose Kirk,6,Male,USA,New York,NYC,Farmer,Middle,Beginner,Beginner,Computer Science,96,4.5,Online Course,Advanced,129
+James Frederick Jr.,16,Female,Australia,New South Wales,Sydney,Engineer,High,Beginner,Intermediate,English,13,0.6,Practice Worksheet,Medium,83
+Lucas Reyes,14,Male,USA,New York,NYC,Farmer,Middle,Intermediate,Advanced,Math,38,4.3,Practice Worksheet,Basic,105
+Walter Morgan,11,Male,USA,New York,Buffalo,Business,Low,Advanced,Intermediate,History,40,3,Textbook,Basic,112
+Tina Espinoza,6,Male,Australia,Victoria,Geelong,Farmer,Middle,Beginner,Beginner,Computer Science,67,0.9,Video Lesson,Medium,81
+Jeffery Roach,8,Male,India,Karnataka,Mysore,Engineer,Low,Intermediate,Advanced,Math,2,1.8,Textbook,Advanced,80
+Nicholas Williams,16,Female,UK,Wales,Swansea,Farmer,Low,Intermediate,Beginner,Science,96,1.9,Video Lesson,Basic,119
+Stephanie Flores,9,Female,USA,Texas,Houston,Unemployed,Middle,Beginner,Beginner,Computer Science,80,2.4,Video Lesson,Basic,127
+Michael Rich,17,Female,UK,Scotland,Glasgow,Doctor,Low,Intermediate,Beginner,History,63,3.7,Textbook,Advanced,106
+Mrs. Kathryn Ferguson,13,Female,Australia,Queensland,Gold Coast,Doctor,Middle,Intermediate,Beginner,Math,2,3.2,Textbook,Basic,100
+Krista Reynolds,10,Female,India,Maharashtra,Mumbai,Doctor,Low,Beginner,Beginner,Math,85,1.3,Video Lesson,Advanced,133
+Cody Carter,13,Male,India,Karnataka,Mysore,Business,Middle,Beginner,Intermediate,Math,40,1.9,Interactive Quiz,Medium,130
+Monica Hudson,6,Male,USA,New York,NYC,Farmer,Low,Advanced,Beginner,English,29,0.9,Online Course,Advanced,113
+Jamie Tran,8,Female,Canada,Ontario,Toronto,Farmer,High,Advanced,Beginner,Science,87,3.2,Interactive Quiz,Basic,122
+David Adams,13,Female,USA,New York,NYC,Unemployed,Low,Advanced,Advanced,English,68,1.7,Video Lesson,Advanced,134
+Annette Curry,12,Female,USA,California,San Francisco,Farmer,Middle,Advanced,Beginner,Computer Science,4,3.2,Online Course,Advanced,81
+Matthew Moreno,8,Female,India,Delhi,New Delhi,Farmer,High,Beginner,Beginner,Science,28,1.6,Interactive Quiz,Advanced,92
+Courtney Villegas,11,Female,Canada,Ontario,Toronto,Teacher,High,Beginner,Beginner,English,73,4.9,Textbook,Basic,139
+Cassidy Lewis,6,Male,UK,England,Manchester,Teacher,Low,Advanced,Beginner,Math,69,0.5,Interactive Quiz,Medium,134
+Patricia Mejia,8,Female,Canada,Quebec,Montreal,Engineer,Low,Beginner,Advanced,Science,5,4,Video Lesson,Medium,125
+Brandon Hawkins,8,Male,India,Delhi,New Delhi,Farmer,Middle,Beginner,Advanced,Science,18,4.9,Practice Worksheet,Medium,115
+Zachary Sanchez,18,Female,Australia,Victoria,Melbourne,Doctor,High,Beginner,Advanced,Science,63,4.4,Video Lesson,Advanced,83
+Patrick Fischer,14,Male,India,Delhi,New Delhi,Teacher,Middle,Intermediate,Beginner,English,58,2,Online Course,Advanced,107
+Brandon Morris,13,Female,Canada,British Columbia,Vancouver,Doctor,Low,Advanced,Advanced,History,19,3.6,Online Course,Basic,98
+Lawrence Miller,16,Male,USA,California,Los Angeles,Doctor,Low,Beginner,Advanced,English,89,2.3,Practice Worksheet,Medium,83
+Stephanie Wood,16,Female,UK,England,London,Engineer,Low,Intermediate,Intermediate,History,43,1.7,Online Course,Medium,103
+Kelly Shelton,9,Female,USA,New York,NYC,Doctor,Middle,Intermediate,Intermediate,Math,20,3.7,Online Course,Basic,138
+Sydney Sanchez,15,Male,USA,New York,NYC,Unemployed,High,Beginner,Advanced,Computer Science,50,1.6,Online Course,Medium,129
+Lisa Wheeler,13,Male,USA,New York,NYC,Doctor,High,Intermediate,Intermediate,Math,14,1.9,Video Lesson,Advanced,90
+Karen Kramer,16,Male,Canada,British Columbia,Vancouver,Doctor,Middle,Intermediate,Beginner,Math,16,2.4,Video Lesson,Basic,96
+Cassidy Graves,10,Female,Canada,Ontario,Toronto,Unemployed,High,Intermediate,Advanced,Science,13,0.7,Practice Worksheet,Medium,95
+Chloe Palmer,9,Female,UK,England,Manchester,Business,Low,Intermediate,Advanced,History,35,1.7,Interactive Quiz,Medium,86
+Jessica Jones,10,Female,USA,California,San Francisco,Unemployed,High,Beginner,Advanced,History,23,3.3,Video Lesson,Medium,124
+Roberto Webster,11,Male,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Intermediate,Science,0,3.3,Interactive Quiz,Medium,121
+Amy Boyle,16,Female,Canada,Ontario,Ottawa,Teacher,High,Advanced,Beginner,Computer Science,39,2.9,Textbook,Medium,129
+Derrick Villa,11,Male,USA,Texas,Dallas,Doctor,High,Advanced,Beginner,Math,17,3.9,Practice Worksheet,Advanced,95
+Michael Bell,8,Male,Australia,Victoria,Geelong,Unemployed,High,Advanced,Intermediate,Math,10,4.7,Interactive Quiz,Medium,127
+Ryan Williams,17,Female,Australia,Victoria,Melbourne,Doctor,Middle,Beginner,Beginner,Computer Science,0,3.4,Textbook,Medium,108
+Robin Perez,14,Female,Canada,Quebec,Quebec City,Farmer,Low,Beginner,Intermediate,Science,60,2.2,Textbook,Medium,138
+John Mendoza,10,Female,USA,Texas,Dallas,Engineer,Middle,Beginner,Beginner,English,87,2.5,Video Lesson,Medium,120
+Nathan Delgado,10,Female,USA,Texas,Dallas,Business,Middle,Beginner,Beginner,Math,55,2.4,Online Course,Basic,113
+James Cole,9,Female,India,Karnataka,Mysore,Unemployed,High,Beginner,Intermediate,History,20,2.5,Practice Worksheet,Basic,100
+Michael Fisher,6,Male,Canada,Ontario,Toronto,Engineer,Middle,Intermediate,Intermediate,English,21,2,Textbook,Medium,122
+Sherry Gardner,12,Male,Canada,Quebec,Montreal,Engineer,High,Advanced,Beginner,English,41,2.8,Interactive Quiz,Advanced,130
+Ryan Ramirez,11,Male,USA,New York,NYC,Engineer,Middle,Beginner,Beginner,Science,50,2.2,Video Lesson,Basic,138
+Michael Scott,15,Male,Canada,Ontario,Ottawa,Teacher,Low,Beginner,Beginner,Computer Science,28,1.7,Textbook,Advanced,133
+James Holden,11,Female,UK,Scotland,Edinburgh,Engineer,Middle,Beginner,Beginner,Math,32,2.1,Video Lesson,Advanced,124
+James Morris,12,Male,USA,Texas,Dallas,Doctor,High,Intermediate,Beginner,History,1,2.8,Video Lesson,Advanced,123
+Jessica Clark,9,Male,Canada,Ontario,Toronto,Business,High,Advanced,Intermediate,History,15,3.2,Interactive Quiz,Basic,107
+Leslie Mitchell,17,Female,Australia,New South Wales,Sydney,Business,Low,Beginner,Beginner,Math,93,3.8,Interactive Quiz,Medium,112
+Mary Garcia,12,Female,India,Karnataka,Bangalore,Unemployed,Low,Intermediate,Advanced,Math,82,3.2,Textbook,Basic,113
+Megan Stanley,17,Male,Australia,New South Wales,Newcastle,Engineer,Low,Beginner,Beginner,Computer Science,83,4.1,Online Course,Basic,100
+Vanessa Spears,13,Male,Canada,Quebec,Quebec City,Business,High,Beginner,Beginner,English,23,0.8,Online Course,Medium,87
+Daniel Davis,11,Female,USA,California,San Francisco,Unemployed,High,Intermediate,Advanced,Science,72,3,Video Lesson,Advanced,135
+Jessica Diaz,7,Male,USA,New York,NYC,Farmer,Low,Advanced,Beginner,English,95,1.1,Video Lesson,Advanced,115
+Mark Contreras,17,Female,Canada,Quebec,Quebec City,Engineer,High,Beginner,Advanced,English,24,4.4,Textbook,Basic,102
+Alexander Pineda,6,Female,Canada,Ontario,Ottawa,Engineer,Low,Advanced,Advanced,History,29,4.7,Interactive Quiz,Advanced,115
+Rebecca Schultz,7,Female,UK,Wales,Swansea,Business,Middle,Beginner,Advanced,English,58,3,Practice Worksheet,Medium,88
+Jasmine Johns,8,Male,Canada,Ontario,Toronto,Engineer,High,Advanced,Beginner,History,56,1.7,Practice Worksheet,Medium,133
+Isaiah Fritz,8,Male,Australia,Victoria,Melbourne,Doctor,High,Beginner,Intermediate,Computer Science,77,3.7,Online Course,Medium,124
+Larry Morris,7,Male,Canada,Quebec,Montreal,Unemployed,High,Beginner,Intermediate,Science,33,0.8,Practice Worksheet,Advanced,94
+Darlene Rhodes,9,Male,India,Delhi,New Delhi,Farmer,Middle,Intermediate,Advanced,History,16,1.4,Video Lesson,Basic,112
+Mr. Darrell Johnson,16,Male,Canada,Quebec,Montreal,Unemployed,High,Intermediate,Intermediate,English,13,3.8,Textbook,Advanced,130
+Karen Heath,10,Female,UK,England,Manchester,Unemployed,Low,Intermediate,Advanced,English,26,0.9,Online Course,Advanced,132
+Michael Johnston,7,Female,Australia,Victoria,Melbourne,Doctor,Middle,Intermediate,Intermediate,Science,11,2.6,Textbook,Advanced,96
+Laura Lopez,14,Female,UK,England,London,Farmer,Low,Advanced,Intermediate,Science,71,2.9,Video Lesson,Basic,135
+Eric Huff,7,Female,USA,Texas,Dallas,Business,Low,Beginner,Intermediate,Science,48,3.3,Interactive Quiz,Advanced,89
+Pamela Martinez,15,Female,India,Delhi,New Delhi,Unemployed,Low,Beginner,Advanced,English,1,1.1,Online Course,Medium,80
+Elizabeth Medina,18,Male,USA,California,Los Angeles,Teacher,Low,Advanced,Advanced,English,79,2.9,Online Course,Medium,137
+Brandy Castillo,12,Male,UK,Wales,Cardiff,Business,High,Intermediate,Advanced,Math,9,4.9,Video Lesson,Medium,97
+James Hooper,12,Male,India,Karnataka,Bangalore,Unemployed,Low,Beginner,Intermediate,Computer Science,28,1.5,Practice Worksheet,Medium,124
+Michele Schmidt,14,Male,Australia,Victoria,Melbourne,Engineer,Middle,Beginner,Beginner,History,33,3.1,Practice Worksheet,Advanced,106
+Tony Hicks,9,Male,UK,Scotland,Glasgow,Teacher,Middle,Advanced,Advanced,Math,33,3.1,Video Lesson,Basic,102
+Carol Perez,7,Female,India,Maharashtra,Mumbai,Teacher,High,Advanced,Beginner,Science,75,4.2,Video Lesson,Basic,87
+Maureen Brown,16,Male,Canada,Ontario,Toronto,Unemployed,Low,Intermediate,Intermediate,Computer Science,5,4.7,Textbook,Medium,99
+Joshua Reid,14,Female,UK,England,London,Engineer,Low,Advanced,Beginner,Math,29,4.2,Interactive Quiz,Medium,90
+Mariah Edwards,10,Female,Australia,Queensland,Brisbane,Teacher,Middle,Intermediate,Advanced,Computer Science,19,0.6,Practice Worksheet,Advanced,83
+Robert Nolan,15,Male,UK,Scotland,Glasgow,Teacher,Low,Intermediate,Advanced,Math,86,0.6,Practice Worksheet,Advanced,90
+Misty Vazquez,16,Male,Australia,Queensland,Brisbane,Teacher,Low,Advanced,Intermediate,Computer Science,57,3.9,Video Lesson,Advanced,93
+Russell Cole,13,Male,Australia,Queensland,Gold Coast,Engineer,Low,Advanced,Beginner,History,40,2.9,Interactive Quiz,Advanced,106
+Zachary Dalton,18,Male,India,Maharashtra,Mumbai,Engineer,Low,Advanced,Intermediate,History,64,1.7,Textbook,Basic,136
+Ricky Townsend,7,Female,Australia,Queensland,Gold Coast,Engineer,Low,Beginner,Beginner,English,30,3.5,Video Lesson,Advanced,106
+Kyle Wade,6,Male,USA,California,Los Angeles,Business,Middle,Intermediate,Beginner,History,42,1.7,Textbook,Medium,121
+John Rubio,7,Male,USA,New York,Buffalo,Doctor,Low,Advanced,Intermediate,Computer Science,72,2.6,Interactive Quiz,Medium,139
+John Phillips,15,Female,USA,California,San Francisco,Business,Low,Advanced,Intermediate,History,6,4.7,Practice Worksheet,Basic,110
+Dawn Hernandez,14,Male,India,Maharashtra,Mumbai,Engineer,High,Beginner,Advanced,Science,78,2.5,Textbook,Advanced,97
+William Baker,11,Female,Australia,New South Wales,Newcastle,Doctor,Middle,Intermediate,Advanced,English,5,2.5,Video Lesson,Advanced,126
+John Barajas,16,Female,India,Maharashtra,Mumbai,Unemployed,High,Intermediate,Beginner,Computer Science,23,2.9,Online Course,Medium,127
+Brandon Sutton,10,Male,UK,Scotland,Edinburgh,Business,Low,Intermediate,Intermediate,English,24,3.6,Textbook,Basic,88
+Amy Simmons,14,Male,Canada,Quebec,Montreal,Unemployed,High,Intermediate,Advanced,Computer Science,68,3.3,Interactive Quiz,Medium,80
+Sarah Park,16,Male,Canada,Quebec,Quebec City,Engineer,Low,Beginner,Intermediate,English,9,1.5,Online Course,Medium,106
+Edgar Richardson,8,Male,UK,Wales,Cardiff,Engineer,Low,Beginner,Intermediate,Science,29,3.3,Textbook,Advanced,135
+Jacob Freeman,13,Female,USA,California,Los Angeles,Teacher,Low,Intermediate,Beginner,Computer Science,38,0.6,Online Course,Medium,80
+David Green,11,Male,Canada,British Columbia,Victoria,Teacher,High,Intermediate,Intermediate,Computer Science,79,4.1,Online Course,Basic,138
+Kimberly Stephenson,7,Male,UK,England,London,Unemployed,Low,Intermediate,Advanced,Science,75,3.1,Online Course,Basic,93
+Brandy Lawrence,15,Male,Australia,Victoria,Geelong,Teacher,High,Advanced,Beginner,Computer Science,90,1.5,Practice Worksheet,Medium,83
+Luke Chang,10,Male,India,Maharashtra,Mumbai,Business,High,Advanced,Beginner,Science,31,2.4,Online Course,Medium,80
+Kathryn Potter,17,Male,Australia,Victoria,Melbourne,Unemployed,High,Advanced,Intermediate,Math,31,2.3,Interactive Quiz,Advanced,129
+Jose Palmer,13,Male,Australia,Victoria,Melbourne,Teacher,Middle,Intermediate,Advanced,Computer Science,67,3.4,Practice Worksheet,Medium,132
+Gary Lee,9,Female,Canada,Ontario,Toronto,Farmer,High,Beginner,Intermediate,History,30,4.4,Online Course,Basic,130
+Felicia Wright,9,Female,USA,Texas,Houston,Business,High,Beginner,Beginner,Science,71,1.4,Interactive Quiz,Medium,95
+Jason Hart,6,Female,Australia,New South Wales,Sydney,Business,High,Beginner,Intermediate,English,42,4.2,Online Course,Advanced,109
+Anna Smith,18,Male,Canada,British Columbia,Vancouver,Business,Middle,Advanced,Intermediate,Math,79,2.6,Practice Worksheet,Advanced,98
+Carlos Johnson,6,Female,USA,Texas,Dallas,Doctor,Middle,Beginner,Advanced,Math,49,1,Textbook,Basic,116
+Kaitlin Hood,8,Male,USA,California,San Francisco,Engineer,Middle,Advanced,Advanced,Computer Science,82,1.2,Practice Worksheet,Advanced,124
+Brandon Sharp,12,Male,USA,New York,NYC,Business,High,Advanced,Intermediate,Math,41,3.4,Video Lesson,Medium,103
+Jason Harris,16,Female,Australia,Queensland,Brisbane,Farmer,Low,Intermediate,Advanced,History,20,2,Practice Worksheet,Medium,81
+Tyler Acosta,7,Male,India,Delhi,New Delhi,Teacher,Low,Beginner,Beginner,Math,12,3.2,Interactive Quiz,Advanced,128
+Lisa Johnson,15,Female,UK,England,Manchester,Engineer,Middle,Beginner,Intermediate,History,71,1,Online Course,Advanced,85
+Shane Martinez,8,Female,UK,Scotland,Edinburgh,Doctor,Middle,Intermediate,Advanced,Computer Science,95,1.6,Interactive Quiz,Basic,90
+Julie Simmons,11,Female,Australia,New South Wales,Sydney,Doctor,Low,Intermediate,Advanced,English,99,2.2,Textbook,Basic,129
+Charles Rush,11,Female,Australia,Victoria,Geelong,Doctor,High,Beginner,Intermediate,History,91,2.9,Interactive Quiz,Medium,111
+Jessica Thompson,13,Female,Canada,British Columbia,Victoria,Teacher,Low,Advanced,Intermediate,History,94,2.4,Online Course,Advanced,135
+Lisa Gross,10,Male,USA,New York,Buffalo,Farmer,Low,Beginner,Intermediate,Math,84,2.7,Online Course,Basic,110
+Christopher Mcintosh,17,Female,Australia,New South Wales,Newcastle,Business,High,Intermediate,Intermediate,History,38,2.9,Online Course,Basic,93
+Sherry Thomas,6,Female,Australia,Victoria,Geelong,Farmer,Middle,Intermediate,Beginner,Science,91,2.1,Online Course,Advanced,128
+Kenneth Rogers,9,Male,UK,England,Manchester,Unemployed,Middle,Beginner,Beginner,History,17,4.7,Practice Worksheet,Medium,119
+Stephanie Walker,13,Male,Australia,Queensland,Gold Coast,Farmer,Low,Intermediate,Advanced,Computer Science,78,0.9,Interactive Quiz,Medium,87
+Jeffrey Hanson,10,Male,Canada,Ontario,Toronto,Unemployed,Middle,Beginner,Beginner,Computer Science,52,3.5,Textbook,Basic,106
+Emily Vazquez,12,Male,Canada,Quebec,Quebec City,Teacher,High,Beginner,Beginner,Computer Science,73,1.8,Interactive Quiz,Basic,123
+Joshua Olson,18,Male,Canada,Ontario,Toronto,Teacher,Middle,Beginner,Advanced,Science,14,2.7,Video Lesson,Basic,102
+David Mathis,12,Male,Australia,Queensland,Gold Coast,Business,High,Advanced,Advanced,English,29,4.5,Online Course,Medium,83
+Cheyenne Galloway,11,Male,UK,Scotland,Glasgow,Engineer,High,Intermediate,Intermediate,History,81,0.7,Online Course,Medium,104
+Dean Johnson,12,Female,India,Karnataka,Mysore,Unemployed,Middle,Intermediate,Advanced,Computer Science,87,0.8,Practice Worksheet,Advanced,113
+Andrea Frank,16,Male,Canada,Ontario,Toronto,Engineer,Middle,Advanced,Beginner,English,25,4.8,Interactive Quiz,Advanced,122
+Adam Watkins,9,Male,UK,Scotland,Edinburgh,Engineer,Low,Beginner,Advanced,Math,12,4.5,Practice Worksheet,Advanced,83
+Mark Garcia,8,Male,Australia,New South Wales,Sydney,Business,High,Advanced,Advanced,Science,84,2.2,Textbook,Basic,115
+Alexis Perkins,15,Female,USA,New York,Buffalo,Business,High,Beginner,Intermediate,Computer Science,57,3.2,Practice Worksheet,Basic,113
+Kathleen Davidson,18,Female,Australia,New South Wales,Sydney,Unemployed,Low,Intermediate,Intermediate,History,85,3.1,Interactive Quiz,Advanced,138
+Kimberly Coffey,7,Female,USA,Texas,Dallas,Business,Low,Beginner,Advanced,Computer Science,54,1,Online Course,Medium,83
+Lisa Singh,12,Male,UK,Scotland,Edinburgh,Unemployed,High,Beginner,Beginner,Science,63,0.8,Interactive Quiz,Basic,128
+Jacob Lindsey,18,Male,USA,New York,Buffalo,Business,High,Intermediate,Intermediate,History,13,1.4,Online Course,Medium,104
+Eric Mueller,14,Male,Australia,Queensland,Brisbane,Doctor,Low,Beginner,Beginner,Science,66,1.5,Online Course,Advanced,89
+Paula Smith,18,Male,USA,Texas,Houston,Doctor,Low,Advanced,Beginner,History,50,1.8,Textbook,Advanced,96
+Alexis Ramirez,6,Female,Canada,Ontario,Toronto,Farmer,High,Advanced,Advanced,English,33,0.8,Video Lesson,Advanced,91
+Kenneth Knight,13,Female,USA,Texas,Houston,Unemployed,High,Beginner,Advanced,Math,22,4.6,Practice Worksheet,Medium,139
+James Brown,6,Male,USA,New York,Buffalo,Engineer,High,Intermediate,Intermediate,Math,20,3.2,Interactive Quiz,Basic,121
+Edward Thompson,17,Female,India,Delhi,New Delhi,Business,Low,Beginner,Beginner,Math,76,2.9,Textbook,Medium,129
+Crystal Washington,14,Female,Canada,Ontario,Ottawa,Farmer,High,Intermediate,Advanced,English,53,2.2,Practice Worksheet,Advanced,80
+Raymond Peterson,9,Male,Canada,Ontario,Ottawa,Business,High,Beginner,Beginner,Computer Science,68,4.2,Video Lesson,Basic,83
+Brian Zimmerman,9,Male,Australia,Victoria,Melbourne,Engineer,Low,Beginner,Advanced,Computer Science,24,4.7,Textbook,Medium,136
+Elizabeth Lyons,6,Female,USA,California,San Francisco,Unemployed,Middle,Intermediate,Advanced,English,68,2.9,Interactive Quiz,Advanced,86
+Erin Little,16,Female,Canada,British Columbia,Vancouver,Engineer,Low,Intermediate,Beginner,History,10,3,Interactive Quiz,Medium,93
+Christopher Jacobs,9,Female,USA,New York,NYC,Business,Low,Advanced,Intermediate,Computer Science,53,3,Interactive Quiz,Basic,90
+William Johnson,14,Female,Canada,Ontario,Toronto,Business,High,Beginner,Intermediate,Math,53,0.8,Textbook,Medium,92
+Kayla Mendez,16,Male,Australia,New South Wales,Newcastle,Engineer,High,Beginner,Advanced,Computer Science,31,3,Textbook,Basic,135
+Jose Allen,17,Female,India,Maharashtra,Mumbai,Doctor,Middle,Intermediate,Intermediate,History,57,1.2,Textbook,Medium,129
+Thomas Osborne,11,Female,Australia,Victoria,Melbourne,Engineer,Low,Intermediate,Beginner,Science,87,3,Textbook,Basic,88
+Holly Garcia,7,Male,India,Delhi,New Delhi,Farmer,Low,Advanced,Beginner,Science,33,2.3,Practice Worksheet,Advanced,86
+Devon Dickerson,17,Male,Australia,New South Wales,Newcastle,Farmer,High,Intermediate,Beginner,Math,58,1.4,Video Lesson,Basic,140
+David Mccarthy,17,Female,USA,Texas,Dallas,Teacher,High,Intermediate,Intermediate,Science,52,3.8,Online Course,Basic,90
+Shelly Lawson,18,Female,USA,New York,NYC,Business,Middle,Beginner,Advanced,Math,56,1.8,Textbook,Advanced,116
+Mr. Walter Sanchez,10,Female,Canada,British Columbia,Vancouver,Farmer,Middle,Advanced,Intermediate,History,64,2.6,Online Course,Basic,92
+Joseph Mendez,10,Female,India,Maharashtra,Mumbai,Farmer,Middle,Beginner,Intermediate,History,15,4,Video Lesson,Basic,110
+Ronald Morris,8,Male,USA,New York,NYC,Teacher,Low,Beginner,Advanced,English,89,2.5,Video Lesson,Basic,80
+Eugene Weaver,17,Female,Canada,British Columbia,Vancouver,Business,Low,Beginner,Beginner,Computer Science,2,4.2,Interactive Quiz,Basic,83
+Rhonda Moreno,16,Male,Canada,Quebec,Quebec City,Farmer,High,Advanced,Advanced,History,63,2.1,Textbook,Basic,108
+Brandon Young,7,Female,Australia,Victoria,Melbourne,Business,Middle,Intermediate,Beginner,Science,59,3.2,Video Lesson,Medium,131
+William Reed,18,Female,Canada,British Columbia,Victoria,Business,High,Intermediate,Beginner,History,46,2.5,Textbook,Basic,133
+Jennifer Luna,13,Male,UK,Wales,Swansea,Doctor,High,Intermediate,Advanced,Computer Science,11,1.3,Video Lesson,Medium,118
+David Mckinney,18,Female,India,Karnataka,Mysore,Doctor,Middle,Beginner,Intermediate,Computer Science,98,0.6,Online Course,Medium,121
+Christopher Taylor,14,Female,India,Delhi,New Delhi,Unemployed,Low,Advanced,Advanced,History,59,3.2,Practice Worksheet,Basic,81
+Maria Durham,7,Female,Canada,Ontario,Toronto,Farmer,Low,Beginner,Beginner,Computer Science,71,4.3,Practice Worksheet,Advanced,127
+Ashley Noble,6,Female,India,Delhi,New Delhi,Doctor,Low,Advanced,Advanced,Math,1,1.9,Video Lesson,Advanced,136
+Patricia Williams,7,Male,UK,Wales,Swansea,Doctor,High,Advanced,Intermediate,Math,87,3.5,Interactive Quiz,Medium,133
+Daniel Carter,18,Male,USA,New York,NYC,Doctor,Middle,Advanced,Advanced,Math,71,1.2,Textbook,Medium,91
+Briana Morse,12,Male,India,Delhi,New Delhi,Doctor,High,Beginner,Advanced,Math,65,1.8,Online Course,Advanced,95
+Carl Parker,12,Male,USA,California,Los Angeles,Farmer,Low,Intermediate,Advanced,Math,12,3.3,Practice Worksheet,Basic,110
+Brittney Perry,12,Male,Australia,Victoria,Melbourne,Unemployed,Low,Advanced,Intermediate,Science,21,4.4,Video Lesson,Basic,137
+Savannah Rocha,17,Male,UK,England,Manchester,Unemployed,Low,Intermediate,Advanced,Computer Science,85,1.3,Interactive Quiz,Basic,91
+Willie Bryant,9,Male,India,Karnataka,Bangalore,Farmer,High,Intermediate,Beginner,Science,23,4.7,Practice Worksheet,Basic,128
+Derrick Rogers,16,Male,USA,California,San Francisco,Business,High,Intermediate,Intermediate,Science,92,4.1,Interactive Quiz,Basic,125
+Amanda Lee,17,Female,UK,England,London,Teacher,Low,Intermediate,Advanced,History,33,1.8,Online Course,Advanced,112
+John Riley,11,Male,Australia,Victoria,Melbourne,Teacher,Low,Intermediate,Intermediate,Science,92,3.1,Textbook,Basic,95
+Zachary Wilkinson,9,Male,Australia,Victoria,Melbourne,Engineer,High,Advanced,Advanced,Computer Science,68,1.3,Online Course,Basic,97
+Alicia Webb,16,Male,UK,Scotland,Glasgow,Unemployed,Middle,Beginner,Intermediate,Science,24,3.3,Textbook,Medium,109
+John Lane,15,Male,UK,England,Manchester,Farmer,Low,Advanced,Intermediate,English,44,0.8,Textbook,Advanced,82
+Julia Taylor,17,Female,UK,Scotland,Glasgow,Farmer,Middle,Advanced,Beginner,Math,61,4.9,Practice Worksheet,Basic,135
+Ronnie Suarez,18,Male,USA,California,San Francisco,Business,Middle,Intermediate,Beginner,English,50,2,Interactive Quiz,Basic,81
+Kristine Lynch,14,Female,UK,Scotland,Edinburgh,Farmer,Low,Beginner,Beginner,Math,59,0.6,Online Course,Advanced,83
+Christopher Powers,15,Male,Australia,Queensland,Gold Coast,Doctor,Low,Beginner,Intermediate,History,87,2.1,Video Lesson,Basic,84
+Christine Adams,6,Female,USA,California,San Francisco,Engineer,High,Beginner,Intermediate,English,7,3.2,Online Course,Basic,92
+Alexandria Parker,14,Female,India,Karnataka,Bangalore,Business,Low,Advanced,Beginner,English,56,1.1,Practice Worksheet,Basic,97
+Julie Anderson,16,Female,Canada,Ontario,Toronto,Farmer,Low,Beginner,Beginner,Science,95,2,Practice Worksheet,Advanced,136
+Alejandro Lawson,11,Female,UK,England,London,Unemployed,Middle,Intermediate,Intermediate,English,34,1.2,Practice Worksheet,Medium,126
+Danielle Ruiz,8,Female,India,Karnataka,Bangalore,Teacher,Low,Intermediate,Beginner,Computer Science,60,1.2,Online Course,Medium,102
+Robert Kennedy,13,Female,India,Karnataka,Mysore,Doctor,Low,Intermediate,Advanced,Math,93,4.9,Interactive Quiz,Medium,129
+Sandra Small,11,Female,Australia,New South Wales,Sydney,Unemployed,Middle,Intermediate,Intermediate,Science,44,3.8,Video Lesson,Advanced,80
+Hannah Dalton,7,Male,Canada,Ontario,Ottawa,Business,High,Advanced,Beginner,Math,60,2.6,Online Course,Basic,98
+Zachary Howell,8,Female,Australia,Queensland,Brisbane,Farmer,High,Advanced,Intermediate,History,20,2,Online Course,Medium,138
+Michelle Francis,10,Female,India,Maharashtra,Pune,Farmer,Low,Beginner,Beginner,English,31,3.8,Textbook,Medium,86
+Caleb Guzman,6,Female,Canada,Ontario,Ottawa,Unemployed,Middle,Beginner,Intermediate,Math,70,3.7,Video Lesson,Medium,110
+Phyllis Mckay,7,Female,Canada,Quebec,Quebec City,Business,Middle,Advanced,Advanced,Computer Science,100,2.2,Practice Worksheet,Advanced,95
+Zachary Baxter,12,Male,USA,New York,NYC,Farmer,High,Beginner,Advanced,History,76,3.8,Textbook,Medium,92
+Corey Burke,15,Male,USA,Texas,Dallas,Engineer,Middle,Beginner,Advanced,Computer Science,29,3.9,Online Course,Medium,116
+Bradley Roberts,15,Female,Australia,Queensland,Gold Coast,Farmer,High,Beginner,Intermediate,English,45,0.8,Online Course,Basic,120
+David Lane,16,Female,USA,California,San Francisco,Business,Low,Advanced,Advanced,Science,27,2.5,Practice Worksheet,Medium,85
+Kayla Gardner,7,Female,USA,New York,Buffalo,Doctor,High,Advanced,Intermediate,Math,97,3.6,Textbook,Medium,100
+Mr. Mark Fuller,13,Female,India,Karnataka,Mysore,Unemployed,Low,Advanced,Advanced,Computer Science,76,1.1,Textbook,Basic,113
+Aaron Williams,17,Male,USA,New York,NYC,Unemployed,High,Beginner,Advanced,English,42,3.3,Online Course,Basic,93
+Melanie Murray,10,Male,Canada,Ontario,Toronto,Business,High,Beginner,Intermediate,Math,11,3.8,Interactive Quiz,Basic,96
+Sherry Tyler,16,Male,USA,California,Los Angeles,Engineer,Middle,Advanced,Intermediate,Science,2,1,Video Lesson,Basic,87
+Daniel Thomas,16,Female,India,Karnataka,Mysore,Unemployed,High,Intermediate,Intermediate,Math,20,2.2,Online Course,Medium,91
+Brian Garcia,8,Female,UK,England,London,Teacher,High,Advanced,Advanced,Science,4,1,Practice Worksheet,Basic,115
+Christina Rivera,12,Male,Canada,British Columbia,Vancouver,Farmer,Low,Advanced,Beginner,Math,18,3.7,Interactive Quiz,Basic,101
+Diana Rogers,16,Female,Australia,New South Wales,Sydney,Business,High,Beginner,Advanced,Math,15,2.5,Video Lesson,Basic,113
+Adam Aguilar,18,Female,Australia,New South Wales,Sydney,Farmer,High,Beginner,Intermediate,English,28,2.3,Textbook,Basic,94
+Samantha Shields,17,Male,India,Delhi,New Delhi,Teacher,High,Intermediate,Intermediate,History,94,1.5,Interactive Quiz,Medium,82
+Mark Perez,17,Female,Australia,Queensland,Gold Coast,Farmer,Low,Beginner,Advanced,Computer Science,7,4.7,Textbook,Medium,121
+Cameron Young,9,Male,Canada,Ontario,Toronto,Farmer,Middle,Beginner,Intermediate,Computer Science,19,0.8,Textbook,Advanced,80
+Anna Cline,17,Male,Australia,Queensland,Brisbane,Farmer,Low,Intermediate,Beginner,Science,3,4.8,Online Course,Medium,97
+Katie Stephens,12,Female,UK,Scotland,Glasgow,Doctor,High,Advanced,Beginner,Science,7,3.1,Interactive Quiz,Advanced,124
+Kathryn Flores,6,Male,USA,California,San Francisco,Unemployed,Middle,Intermediate,Advanced,Computer Science,92,0.6,Online Course,Basic,112
+Amy Skinner,13,Male,India,Delhi,New Delhi,Doctor,Middle,Intermediate,Beginner,Math,3,2.8,Video Lesson,Advanced,100
+Phyllis Hogan,13,Male,USA,New York,Buffalo,Doctor,Low,Beginner,Intermediate,Math,2,3.3,Online Course,Advanced,120
+Alexandria Dixon,15,Male,Canada,Quebec,Montreal,Farmer,Low,Beginner,Beginner,English,77,2,Video Lesson,Basic,82
+Alexander Dyer,9,Female,India,Delhi,New Delhi,Engineer,High,Intermediate,Intermediate,Computer Science,82,1.6,Online Course,Medium,92
+Cheryl Daniels,8,Male,Canada,Ontario,Ottawa,Doctor,Middle,Intermediate,Intermediate,Computer Science,46,3.7,Online Course,Basic,133
+Albert Rivera,18,Female,UK,England,Manchester,Engineer,Low,Beginner,Beginner,Math,87,0.9,Interactive Quiz,Medium,125
+Jacqueline Brown,13,Female,Australia,Victoria,Geelong,Farmer,Low,Advanced,Beginner,English,2,1.9,Online Course,Basic,88
+Shannon Shelton,16,Male,Canada,Ontario,Toronto,Teacher,Middle,Beginner,Advanced,Science,7,2.4,Practice Worksheet,Medium,100
+Kevin Bonilla,18,Male,USA,Texas,Dallas,Unemployed,High,Intermediate,Advanced,Math,66,2.4,Interactive Quiz,Advanced,115
+Kathy Baxter,17,Male,India,Delhi,New Delhi,Teacher,Middle,Advanced,Intermediate,Science,99,5,Online Course,Medium,111
+Robert Martin,6,Male,India,Karnataka,Bangalore,Engineer,Middle,Intermediate,Beginner,Computer Science,23,1.1,Practice Worksheet,Advanced,89
+Victoria Hill,9,Female,USA,Texas,Houston,Teacher,Middle,Intermediate,Beginner,English,71,2.8,Video Lesson,Basic,120
+Kristin Arnold,18,Male,India,Karnataka,Bangalore,Farmer,Middle,Intermediate,Advanced,Math,67,4.1,Online Course,Medium,95
+John Evans,8,Female,USA,California,Los Angeles,Farmer,High,Advanced,Advanced,English,70,3,Textbook,Basic,87
+Jamie Erickson,12,Male,Canada,Ontario,Toronto,Engineer,Middle,Intermediate,Intermediate,History,85,2.4,Interactive Quiz,Medium,130
+Justin Weaver,9,Male,UK,Wales,Cardiff,Engineer,Low,Beginner,Intermediate,Math,61,0.6,Interactive Quiz,Basic,140
+Sally Stewart,15,Female,Australia,Victoria,Geelong,Doctor,Low,Advanced,Intermediate,Math,90,3.2,Interactive Quiz,Medium,110
+James Jenkins,18,Male,Australia,Queensland,Gold Coast,Engineer,High,Advanced,Intermediate,Computer Science,40,1.7,Practice Worksheet,Basic,82
+Melissa Garza,9,Male,Canada,Ontario,Ottawa,Farmer,Low,Beginner,Advanced,Math,64,2.4,Online Course,Medium,131
+Richard Nolan,7,Male,India,Karnataka,Bangalore,Teacher,High,Advanced,Intermediate,English,35,4,Online Course,Basic,95
+Mary Garner,9,Male,Australia,New South Wales,Sydney,Engineer,High,Intermediate,Intermediate,Science,75,3.9,Practice Worksheet,Advanced,120
+Martin Thompson,17,Male,USA,Texas,Dallas,Doctor,Middle,Intermediate,Advanced,History,41,3.5,Textbook,Basic,88
+Crystal White,14,Male,India,Karnataka,Mysore,Doctor,Middle,Advanced,Beginner,History,25,3.1,Textbook,Basic,116
+Craig Blankenship,18,Female,Australia,New South Wales,Sydney,Teacher,Low,Intermediate,Intermediate,Computer Science,78,1.7,Video Lesson,Basic,125
+Nathaniel Lewis,10,Female,Australia,New South Wales,Newcastle,Unemployed,Middle,Advanced,Advanced,Computer Science,44,4,Practice Worksheet,Basic,130
+Kim French,12,Female,Australia,Queensland,Gold Coast,Farmer,Middle,Intermediate,Beginner,Computer Science,51,3.2,Practice Worksheet,Medium,121
+Larry Williams,12,Female,Australia,Queensland,Brisbane,Teacher,High,Advanced,Advanced,English,70,4,Practice Worksheet,Advanced,119
+Gabriel Torres,7,Male,Canada,Ontario,Toronto,Engineer,Low,Intermediate,Advanced,English,65,1.1,Video Lesson,Medium,112
+Lisa Miranda,6,Female,India,Maharashtra,Pune,Unemployed,High,Advanced,Beginner,Math,15,1.4,Textbook,Medium,82
+Donald Castaneda,8,Female,Australia,Victoria,Geelong,Teacher,Low,Intermediate,Advanced,History,5,1.3,Textbook,Advanced,140
+Valerie Ramirez,10,Male,UK,Scotland,Glasgow,Unemployed,High,Advanced,Advanced,Science,25,0.5,Video Lesson,Basic,96
+Alexandria Diaz,6,Female,India,Karnataka,Bangalore,Unemployed,Low,Intermediate,Advanced,Computer Science,56,4.9,Interactive Quiz,Advanced,132
+James Walters,15,Male,UK,England,Manchester,Engineer,High,Advanced,Intermediate,Computer Science,50,4.3,Textbook,Basic,131
+Julie Arnold,15,Male,Australia,New South Wales,Newcastle,Teacher,High,Advanced,Advanced,Math,15,1.7,Textbook,Advanced,108
+Clifford Mosley,16,Male,India,Karnataka,Bangalore,Farmer,Middle,Advanced,Advanced,Math,83,1.1,Online Course,Basic,85
+Matthew Wells,9,Female,UK,England,Manchester,Business,High,Beginner,Advanced,English,1,2.1,Textbook,Advanced,96
+John Marshall,12,Male,India,Maharashtra,Mumbai,Teacher,High,Beginner,Beginner,History,40,1.2,Practice Worksheet,Advanced,121
+Bruce Diaz,11,Male,Australia,Queensland,Gold Coast,Business,Middle,Advanced,Beginner,Science,60,4.7,Textbook,Advanced,118
+Sean Dillon,16,Male,Australia,Victoria,Melbourne,Engineer,High,Advanced,Advanced,History,81,4.5,Video Lesson,Medium,114
+George Miller,11,Female,Canada,British Columbia,Vancouver,Teacher,High,Beginner,Advanced,Math,22,3.1,Online Course,Basic,84
+Brady Leblanc,14,Male,Australia,Victoria,Geelong,Engineer,High,Advanced,Beginner,English,68,3.1,Video Lesson,Basic,129
+Kevin Orr,6,Male,Australia,New South Wales,Sydney,Engineer,High,Intermediate,Intermediate,History,32,0.8,Online Course,Medium,122
+John Alvarez,18,Male,Canada,Quebec,Montreal,Unemployed,Middle,Advanced,Intermediate,English,99,4.9,Interactive Quiz,Basic,133
+Amy Pierce,10,Male,Canada,Quebec,Quebec City,Doctor,Middle,Intermediate,Intermediate,History,85,4.9,Interactive Quiz,Advanced,124
+Albert Olson,12,Male,UK,Scotland,Edinburgh,Teacher,Low,Advanced,Intermediate,Math,43,2.9,Video Lesson,Medium,95
+Jeffrey Kramer,9,Female,Australia,New South Wales,Newcastle,Unemployed,Low,Advanced,Beginner,Math,38,1.7,Practice Worksheet,Advanced,99
+Amanda Perry,12,Female,Australia,New South Wales,Sydney,Teacher,Low,Advanced,Advanced,History,26,4.4,Interactive Quiz,Basic,118
+Annette Wood,15,Male,Australia,Victoria,Geelong,Engineer,Middle,Beginner,Intermediate,History,6,4.7,Textbook,Medium,127
+Margaret Jordan,12,Male,UK,England,London,Farmer,Middle,Beginner,Intermediate,Computer Science,83,3.7,Practice Worksheet,Medium,122
+Clarence Cannon,12,Female,UK,Wales,Swansea,Doctor,Middle,Intermediate,Beginner,Science,71,3.7,Practice Worksheet,Advanced,109
+Maria Vargas,6,Female,USA,California,Los Angeles,Unemployed,High,Beginner,Beginner,History,16,4.2,Interactive Quiz,Advanced,135
+Tracy Flores DDS,16,Female,Australia,New South Wales,Newcastle,Unemployed,Middle,Intermediate,Advanced,English,86,3.4,Practice Worksheet,Advanced,94
+Joan Molina,7,Female,Canada,Quebec,Montreal,Business,Middle,Advanced,Advanced,History,78,1.9,Video Lesson,Advanced,107
+Dylan Miles,12,Male,UK,Wales,Swansea,Farmer,Low,Beginner,Beginner,Science,72,3.6,Textbook,Medium,115
+Elizabeth Rhodes,18,Female,USA,New York,NYC,Teacher,Low,Beginner,Intermediate,Science,92,4.2,Interactive Quiz,Basic,83
+Craig Rodriguez,16,Female,Australia,Queensland,Gold Coast,Farmer,Middle,Intermediate,Advanced,English,9,2.5,Interactive Quiz,Medium,121
+Christian Stanley,7,Male,USA,Texas,Houston,Unemployed,Middle,Intermediate,Intermediate,Math,12,1.2,Practice Worksheet,Advanced,127
+Brian Sanchez,8,Male,UK,England,London,Business,High,Intermediate,Advanced,Science,90,3.2,Interactive Quiz,Basic,98
+Joseph Campbell,14,Female,UK,Scotland,Glasgow,Farmer,Middle,Beginner,Advanced,English,82,4.5,Textbook,Basic,139
+Jeffery Bird,11,Female,Australia,New South Wales,Sydney,Business,High,Advanced,Intermediate,English,91,2.8,Interactive Quiz,Basic,81
+Jordan Foster,6,Male,India,Karnataka,Mysore,Unemployed,High,Advanced,Beginner,Computer Science,63,1.3,Interactive Quiz,Basic,136
+David Floyd,14,Male,UK,Wales,Swansea,Unemployed,Low,Intermediate,Beginner,History,32,3.8,Textbook,Medium,93
+Renee Anderson,12,Female,Canada,British Columbia,Vancouver,Teacher,Low,Intermediate,Beginner,History,66,4.6,Textbook,Medium,105
+William Chavez,16,Male,UK,Wales,Swansea,Business,Middle,Advanced,Beginner,Science,30,1.8,Online Course,Medium,89
+Connor Vaughan,15,Male,Australia,New South Wales,Newcastle,Engineer,Middle,Intermediate,Beginner,History,8,3.5,Practice Worksheet,Basic,113
+Victoria Evans,14,Female,Australia,Queensland,Brisbane,Farmer,Low,Intermediate,Advanced,Math,59,1.5,Interactive Quiz,Advanced,119
+Charles Lawrence,11,Male,UK,Scotland,Glasgow,Doctor,Middle,Beginner,Intermediate,Computer Science,41,2.5,Textbook,Basic,117
+Sean Green,14,Female,India,Delhi,New Delhi,Engineer,Low,Intermediate,Intermediate,History,92,4.5,Online Course,Medium,88
+Mark Warner,13,Female,Australia,Queensland,Brisbane,Farmer,Middle,Beginner,Advanced,English,37,2.8,Textbook,Medium,111
+Michael Douglas,14,Male,UK,England,Manchester,Farmer,High,Beginner,Beginner,English,67,3,Video Lesson,Advanced,122
+Katherine Thornton,16,Female,Australia,Queensland,Gold Coast,Engineer,Middle,Beginner,Advanced,English,8,3,Video Lesson,Basic,122
+William Warren,17,Male,UK,Wales,Swansea,Business,High,Advanced,Advanced,Science,7,1,Video Lesson,Advanced,85
+Tony Miller,6,Female,UK,Scotland,Edinburgh,Farmer,High,Beginner,Beginner,Math,0,4.8,Video Lesson,Advanced,80
+Danielle Harrison,7,Male,Australia,Queensland,Brisbane,Doctor,Low,Intermediate,Intermediate,History,6,1.5,Video Lesson,Basic,130
+Katie White,13,Female,USA,New York,Buffalo,Teacher,Low,Intermediate,Beginner,Science,32,2.4,Practice Worksheet,Advanced,89
+Mr. Colton Goodman,7,Female,Canada,Quebec,Quebec City,Business,Low,Intermediate,Beginner,English,59,3.5,Video Lesson,Advanced,106
+Bryan Gomez,12,Male,Canada,Ontario,Ottawa,Unemployed,Low,Advanced,Advanced,English,80,3.9,Interactive Quiz,Advanced,109
+Kayla Bennett,13,Male,Canada,Quebec,Quebec City,Farmer,High,Advanced,Beginner,Computer Science,48,2.9,Practice Worksheet,Advanced,122
+Aaron Adams,14,Male,USA,Texas,Houston,Doctor,Low,Intermediate,Beginner,Science,29,2.9,Interactive Quiz,Basic,140
+Kevin Wood,6,Female,Australia,New South Wales,Newcastle,Engineer,Middle,Intermediate,Intermediate,History,3,2.3,Textbook,Medium,128
+Jessica Davis,8,Male,India,Maharashtra,Mumbai,Farmer,Low,Beginner,Intermediate,Computer Science,40,4.4,Video Lesson,Advanced,129
+Alexandra Lamb,18,Female,USA,California,Los Angeles,Engineer,Low,Advanced,Intermediate,History,13,4,Online Course,Advanced,127
+Denise Jackson,9,Male,Canada,Ontario,Ottawa,Farmer,Middle,Beginner,Beginner,Science,12,1.4,Interactive Quiz,Advanced,135
+Vanessa Sanchez,7,Female,Australia,New South Wales,Newcastle,Business,Middle,Intermediate,Beginner,History,81,4.9,Interactive Quiz,Medium,94
+Joseph Davis,9,Female,Canada,Quebec,Quebec City,Teacher,Middle,Intermediate,Intermediate,History,24,3.2,Online Course,Medium,85
+Randy Carpenter,6,Female,UK,Wales,Cardiff,Farmer,High,Advanced,Intermediate,History,26,1.4,Online Course,Basic,112
+Hannah Phillips,16,Male,USA,Texas,Houston,Farmer,High,Beginner,Beginner,Computer Science,72,4.3,Practice Worksheet,Basic,120
+Andrew Flores,6,Female,Australia,Victoria,Melbourne,Engineer,Low,Advanced,Intermediate,Science,30,2.6,Interactive Quiz,Medium,108
+Edward Cook,17,Male,USA,California,Los Angeles,Doctor,Low,Intermediate,Advanced,English,7,2.3,Textbook,Advanced,127
+Jessica Foster,10,Male,India,Delhi,New Delhi,Farmer,Middle,Beginner,Advanced,English,10,3.8,Video Lesson,Medium,107
+Samuel Fisher,16,Female,USA,California,San Francisco,Unemployed,Middle,Advanced,Intermediate,History,72,3.8,Online Course,Medium,87
+Melinda Stokes,17,Female,USA,California,Los Angeles,Farmer,Low,Intermediate,Advanced,History,41,1.6,Online Course,Medium,116
+Donald Walters,10,Female,Canada,British Columbia,Vancouver,Business,High,Advanced,Advanced,Computer Science,41,0.7,Practice Worksheet,Advanced,121
+Bradley Wiley,14,Male,UK,Wales,Swansea,Doctor,High,Intermediate,Advanced,Computer Science,65,1.8,Textbook,Advanced,138
+Jennifer Cooper,9,Male,India,Delhi,New Delhi,Teacher,High,Advanced,Beginner,History,82,4.2,Textbook,Basic,132
+Jordan Brown MD,17,Female,USA,Texas,Dallas,Doctor,Middle,Advanced,Intermediate,Science,28,3.8,Video Lesson,Basic,120
+Adam Travis,15,Female,Australia,New South Wales,Sydney,Doctor,Middle,Advanced,Intermediate,Computer Science,79,3,Video Lesson,Medium,94
+James Wheeler,15,Female,Canada,Ontario,Ottawa,Doctor,Middle,Advanced,Beginner,Computer Science,50,0.7,Online Course,Medium,139
+Dr. Karen Hodge,14,Female,Canada,Quebec,Quebec City,Engineer,Low,Beginner,Beginner,History,47,2,Online Course,Medium,122
+Robert Daniels,15,Male,India,Delhi,New Delhi,Farmer,Low,Intermediate,Advanced,English,16,2.6,Interactive Quiz,Advanced,122
+Shannon Johnson,10,Female,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Beginner,English,67,4.2,Video Lesson,Advanced,108
+Maria Hendricks,10,Male,India,Delhi,New Delhi,Farmer,High,Advanced,Advanced,History,13,2.7,Interactive Quiz,Advanced,98
+Christopher Fuller,15,Female,USA,California,San Francisco,Teacher,Low,Intermediate,Intermediate,History,22,3.2,Textbook,Advanced,125
+Nicholas Bauer,8,Male,India,Maharashtra,Mumbai,Business,High,Beginner,Intermediate,English,17,3.9,Video Lesson,Medium,120
+Diane Rasmussen,7,Male,Australia,Victoria,Geelong,Farmer,Low,Advanced,Advanced,Science,39,1.6,Interactive Quiz,Advanced,114
+Christina Hudson,13,Male,India,Maharashtra,Mumbai,Teacher,Middle,Advanced,Beginner,History,89,0.6,Online Course,Advanced,118
+Mary Stephenson,6,Male,Canada,British Columbia,Victoria,Farmer,Middle,Intermediate,Intermediate,Computer Science,82,1.7,Practice Worksheet,Basic,121
+Stephanie Brown,6,Female,USA,California,Los Angeles,Farmer,High,Intermediate,Beginner,Computer Science,30,0.5,Video Lesson,Basic,137
+Shelia Gonzalez,7,Male,USA,California,San Francisco,Unemployed,High,Advanced,Advanced,English,64,4.5,Textbook,Medium,89
+Shannon Mcguire,11,Male,India,Delhi,New Delhi,Farmer,Middle,Advanced,Intermediate,History,96,4.3,Textbook,Basic,81
+James Chen,6,Male,India,Delhi,New Delhi,Farmer,Middle,Beginner,Beginner,History,31,4.9,Practice Worksheet,Advanced,129
+Robert Foster,14,Female,USA,Texas,Dallas,Business,Middle,Intermediate,Beginner,Science,18,3.7,Video Lesson,Basic,86
+Gina Brown,8,Female,Australia,Queensland,Gold Coast,Farmer,Middle,Advanced,Beginner,English,65,4.3,Textbook,Advanced,122
+Jodi Cohen,10,Female,India,Delhi,New Delhi,Teacher,Low,Beginner,Advanced,History,51,4.4,Online Course,Basic,88
+Melissa Smith,12,Female,Canada,Quebec,Quebec City,Doctor,High,Advanced,Beginner,Computer Science,19,1.3,Textbook,Medium,110
+Jonathan Thompson,6,Female,USA,Texas,Dallas,Unemployed,Low,Intermediate,Advanced,English,99,1.9,Interactive Quiz,Advanced,113
+Tyler Porter,16,Female,Canada,Quebec,Quebec City,Teacher,High,Beginner,Advanced,Science,51,5,Interactive Quiz,Basic,121
+Ricky Hall,14,Female,Canada,Ontario,Toronto,Engineer,Low,Advanced,Intermediate,History,35,0.9,Interactive Quiz,Basic,114
+Christina Taylor,7,Male,Australia,Queensland,Gold Coast,Farmer,Low,Beginner,Advanced,History,88,0.9,Practice Worksheet,Medium,92
+Robin Haynes,9,Male,India,Karnataka,Mysore,Business,High,Intermediate,Advanced,History,52,1.4,Video Lesson,Medium,133
+Adam Porter,7,Male,UK,Scotland,Glasgow,Unemployed,High,Beginner,Beginner,Math,17,4.5,Online Course,Medium,97
+Dr. Paul Hart DDS,12,Male,Australia,Victoria,Geelong,Doctor,Low,Advanced,Beginner,Computer Science,33,2,Textbook,Basic,108
+Chelsea Carpenter,8,Female,UK,England,London,Teacher,Middle,Beginner,Advanced,Math,97,3.7,Online Course,Basic,100
+Joseph Oliver,6,Male,Australia,Queensland,Gold Coast,Unemployed,Middle,Beginner,Intermediate,Science,83,4.9,Video Lesson,Advanced,80
+Rachel Frank,18,Female,Canada,Quebec,Montreal,Doctor,Middle,Advanced,Beginner,Computer Science,81,2.9,Practice Worksheet,Medium,132
+David Fuentes,14,Female,India,Karnataka,Mysore,Teacher,High,Intermediate,Advanced,English,77,0.7,Online Course,Advanced,137
+Joy Jackson,16,Male,India,Karnataka,Mysore,Doctor,Low,Beginner,Beginner,Math,11,4.4,Interactive Quiz,Advanced,94
+Aaron Silva,13,Female,USA,Texas,Dallas,Doctor,High,Intermediate,Advanced,Math,81,3.2,Textbook,Medium,106
+Katie Cole,16,Female,UK,England,Manchester,Unemployed,Low,Intermediate,Advanced,Science,17,3.6,Textbook,Medium,92
+Dylan Hull,12,Male,Australia,New South Wales,Sydney,Doctor,Middle,Intermediate,Intermediate,Science,74,4.7,Online Course,Medium,138
+Michelle Moore,18,Male,India,Karnataka,Bangalore,Teacher,High,Beginner,Advanced,Science,65,2,Practice Worksheet,Basic,82
+Brian Moses,12,Female,India,Maharashtra,Mumbai,Business,High,Beginner,Advanced,Computer Science,18,0.9,Practice Worksheet,Medium,136
+Linda Ballard,12,Male,Canada,Ontario,Toronto,Business,Low,Advanced,Intermediate,Math,48,1.5,Video Lesson,Medium,92
+Brian Stark,6,Male,USA,New York,Buffalo,Unemployed,Middle,Advanced,Advanced,History,16,4.2,Practice Worksheet,Advanced,116
+John Jackson,13,Male,UK,Wales,Cardiff,Engineer,Middle,Beginner,Beginner,Computer Science,95,1.3,Practice Worksheet,Advanced,123
+Robert Fernandez,16,Female,India,Karnataka,Bangalore,Doctor,High,Beginner,Advanced,Computer Science,8,2.4,Video Lesson,Advanced,96
+Gregory Davis,13,Female,India,Karnataka,Bangalore,Doctor,Low,Advanced,Intermediate,History,99,3.4,Practice Worksheet,Advanced,131
+Patrick Simmons,6,Female,India,Karnataka,Mysore,Teacher,High,Intermediate,Advanced,Computer Science,44,2.3,Textbook,Medium,85
+Joseph Welch,17,Female,Canada,Quebec,Montreal,Doctor,Low,Advanced,Intermediate,English,46,4.7,Interactive Quiz,Medium,107
+Corey White,7,Female,UK,Scotland,Glasgow,Engineer,High,Beginner,Advanced,Computer Science,94,2.4,Online Course,Medium,86
+Janice Cooper,13,Female,UK,England,Manchester,Engineer,High,Intermediate,Beginner,English,45,0.8,Textbook,Medium,129
+Christine Haynes,18,Male,UK,Scotland,Glasgow,Teacher,Middle,Beginner,Advanced,Math,16,3.3,Online Course,Basic,137
+Sara Rivera,9,Female,Canada,Ontario,Ottawa,Doctor,High,Advanced,Beginner,English,93,4.9,Practice Worksheet,Basic,107
+Manuel Gross,12,Male,USA,New York,NYC,Engineer,High,Intermediate,Intermediate,Computer Science,92,3.4,Online Course,Medium,114
+Mark Zamora,18,Male,USA,New York,Buffalo,Teacher,Low,Intermediate,Beginner,History,60,4,Textbook,Basic,91
+Kari Hernandez,11,Female,India,Maharashtra,Mumbai,Doctor,Middle,Beginner,Beginner,Math,25,4.9,Online Course,Basic,120
+Todd Jensen,13,Female,Australia,Victoria,Melbourne,Teacher,Middle,Intermediate,Beginner,Computer Science,25,3.1,Online Course,Medium,88
+Sara Fisher,7,Female,Australia,New South Wales,Newcastle,Engineer,Low,Beginner,Beginner,Science,13,1.7,Textbook,Medium,103
+Katie Williams,13,Female,India,Delhi,New Delhi,Farmer,Middle,Advanced,Beginner,History,55,4.5,Textbook,Advanced,117
+Brooke Matthews DDS,16,Female,Canada,Quebec,Quebec City,Engineer,Middle,Beginner,Advanced,History,22,3,Practice Worksheet,Basic,105
+Mrs. Melissa Roy,13,Female,Canada,British Columbia,Victoria,Unemployed,High,Advanced,Beginner,Science,71,2.1,Practice Worksheet,Medium,116
+Eric Hoover,7,Female,Canada,British Columbia,Victoria,Doctor,Middle,Advanced,Beginner,Computer Science,29,3.4,Practice Worksheet,Medium,86
+Amy Herman,14,Male,Canada,British Columbia,Victoria,Engineer,High,Beginner,Advanced,Math,25,2.1,Practice Worksheet,Basic,140
+Joshua Allen,11,Male,UK,England,Manchester,Unemployed,High,Intermediate,Intermediate,Math,0,3.5,Interactive Quiz,Advanced,90
+Ebony Davis,12,Male,India,Maharashtra,Mumbai,Doctor,Middle,Advanced,Beginner,English,26,4.9,Textbook,Basic,88
+Catherine Thomas,6,Male,UK,Wales,Cardiff,Engineer,Low,Intermediate,Beginner,Math,32,2.2,Video Lesson,Medium,99
+Jessica Rodriguez,9,Female,UK,Wales,Swansea,Doctor,High,Beginner,Advanced,English,84,2.3,Interactive Quiz,Basic,81
+Steve English,7,Male,UK,Wales,Cardiff,Farmer,Low,Intermediate,Beginner,English,55,2.8,Online Course,Basic,90
+Jeffrey Jenkins,11,Male,UK,Wales,Cardiff,Unemployed,High,Intermediate,Beginner,Computer Science,65,4.2,Interactive Quiz,Advanced,86
+Richard Miller,11,Male,USA,New York,NYC,Doctor,Low,Advanced,Beginner,English,77,2.9,Textbook,Medium,86
+Donna Wilson,13,Male,Australia,Queensland,Gold Coast,Teacher,High,Advanced,Advanced,Math,14,1.7,Video Lesson,Basic,102
+Ryan Peterson,10,Male,Australia,New South Wales,Newcastle,Business,Middle,Intermediate,Advanced,History,23,1.6,Interactive Quiz,Medium,112
+Cheryl Evans,13,Male,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Beginner,Science,13,2.3,Online Course,Advanced,109
+Sandra Miranda,10,Male,India,Delhi,New Delhi,Business,Middle,Advanced,Advanced,Math,4,4.2,Textbook,Basic,106
+Tonya Hall,17,Male,Canada,Ontario,Toronto,Teacher,Low,Beginner,Advanced,English,18,3.7,Online Course,Medium,135
+Shawna Smith,16,Male,Canada,Ontario,Toronto,Engineer,Low,Beginner,Advanced,History,34,4.7,Textbook,Basic,115
+Spencer Ramos,6,Male,India,Maharashtra,Pune,Engineer,Low,Beginner,Beginner,English,26,3.5,Online Course,Advanced,93
+Nancy Perez,9,Female,UK,Wales,Swansea,Engineer,Low,Advanced,Advanced,Computer Science,60,4.7,Video Lesson,Medium,84
+Lance Harding,18,Female,USA,California,San Francisco,Engineer,Middle,Advanced,Advanced,History,29,2.1,Textbook,Advanced,95
+Priscilla Ryan,10,Female,India,Maharashtra,Pune,Teacher,Middle,Beginner,Advanced,History,12,4.8,Practice Worksheet,Advanced,85
+Amy Banks,11,Male,Australia,Queensland,Brisbane,Business,Low,Advanced,Advanced,History,3,5,Practice Worksheet,Advanced,126
+Tina Strong,7,Female,Canada,British Columbia,Victoria,Engineer,Middle,Beginner,Beginner,Computer Science,44,4.2,Practice Worksheet,Basic,135
+Terri Murphy,6,Male,UK,Wales,Swansea,Teacher,Low,Advanced,Beginner,Computer Science,77,4.4,Interactive Quiz,Basic,117
+Kyle Rollins,9,Male,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Advanced,English,50,2.9,Interactive Quiz,Advanced,111
+Jordan Wilkerson,13,Female,Canada,British Columbia,Vancouver,Engineer,Middle,Intermediate,Intermediate,Science,80,3.9,Video Lesson,Medium,114
+Carrie Hall,16,Female,UK,England,London,Unemployed,High,Advanced,Beginner,Math,44,1.8,Practice Worksheet,Basic,93
+Kathryn Campbell,9,Male,USA,Texas,Houston,Business,Low,Advanced,Beginner,English,75,3.1,Textbook,Basic,107
+Bradley Simmons,12,Female,UK,England,Manchester,Teacher,Middle,Advanced,Beginner,Science,97,2.2,Practice Worksheet,Basic,93
+Lauren Whitney,11,Male,India,Delhi,New Delhi,Unemployed,Middle,Advanced,Intermediate,English,49,4.3,Textbook,Basic,102
+Mia Anderson,9,Male,India,Maharashtra,Pune,Unemployed,Low,Beginner,Beginner,English,61,0.7,Video Lesson,Medium,132
+Michael Richardson,18,Female,India,Delhi,New Delhi,Farmer,Low,Beginner,Beginner,Science,17,3.3,Video Lesson,Medium,106
+Courtney Smith,15,Male,India,Delhi,New Delhi,Business,Middle,Intermediate,Beginner,Math,56,3.9,Interactive Quiz,Basic,105
+Aaron Kennedy,14,Female,Canada,British Columbia,Vancouver,Unemployed,Low,Advanced,Intermediate,Science,39,3.4,Interactive Quiz,Basic,119
+Pamela Gould,8,Female,Australia,New South Wales,Sydney,Business,Middle,Beginner,Advanced,English,99,3.5,Interactive Quiz,Medium,109
+Victoria Hawkins DVM,18,Male,Australia,New South Wales,Newcastle,Engineer,Low,Advanced,Intermediate,History,54,1.5,Online Course,Medium,117
+Nancy Barnes,10,Male,UK,Wales,Swansea,Doctor,High,Advanced,Advanced,Math,62,1.3,Textbook,Basic,130
+Cameron King,12,Male,Canada,Quebec,Quebec City,Teacher,High,Advanced,Beginner,Math,6,2.7,Practice Worksheet,Advanced,84
+John Mann,14,Female,Australia,Victoria,Melbourne,Unemployed,High,Intermediate,Beginner,Math,93,4.6,Video Lesson,Advanced,103
+Peter Tucker,18,Male,UK,England,Manchester,Unemployed,Middle,Beginner,Intermediate,Science,35,0.8,Practice Worksheet,Medium,125
+Kyle Peters,9,Male,Australia,New South Wales,Newcastle,Business,Low,Intermediate,Advanced,English,86,1.2,Video Lesson,Medium,111
+Dana Johnson,14,Female,India,Karnataka,Bangalore,Farmer,Middle,Beginner,Beginner,History,59,4.4,Interactive Quiz,Basic,87
+Donna Rogers,18,Male,Canada,Ontario,Toronto,Teacher,High,Advanced,Intermediate,History,11,1.6,Video Lesson,Basic,90
+Miss Suzanne Bryant,15,Female,USA,California,Los Angeles,Unemployed,Middle,Beginner,Intermediate,English,77,2.7,Video Lesson,Medium,102
+Jane Hurst,8,Male,India,Delhi,New Delhi,Doctor,High,Intermediate,Beginner,Math,29,1.4,Online Course,Basic,106
+Allen Russell,10,Male,USA,California,Los Angeles,Teacher,High,Advanced,Intermediate,Computer Science,32,1.4,Practice Worksheet,Advanced,136
+Alexa Salazar,6,Female,India,Karnataka,Mysore,Doctor,Low,Beginner,Advanced,Science,54,4.5,Practice Worksheet,Advanced,123
+Lisa Alvarez,13,Male,USA,Texas,Dallas,Unemployed,Middle,Intermediate,Beginner,Math,33,0.9,Video Lesson,Medium,127
+Charles Vargas,11,Female,USA,Texas,Dallas,Teacher,Middle,Beginner,Beginner,History,10,2.6,Textbook,Basic,80
+Dawn Clayton,17,Male,India,Karnataka,Bangalore,Doctor,Middle,Beginner,Beginner,History,40,4.5,Video Lesson,Basic,131
+Chris Dunlap,8,Male,Australia,Queensland,Brisbane,Doctor,Middle,Intermediate,Intermediate,Math,52,3.9,Textbook,Basic,117
+Nathan Anderson,6,Male,Australia,New South Wales,Sydney,Farmer,High,Advanced,Beginner,Computer Science,79,0.5,Textbook,Advanced,117
+Jaime Moreno,11,Male,USA,New York,NYC,Engineer,High,Beginner,Beginner,Science,61,0.5,Online Course,Advanced,86
+Benjamin Ramos,12,Male,USA,California,San Francisco,Engineer,Low,Advanced,Beginner,English,47,1,Textbook,Advanced,123
+Allison Gallegos,15,Female,UK,Wales,Swansea,Business,High,Intermediate,Advanced,Math,49,2.6,Online Course,Basic,135
+Jacob Harvey,11,Male,USA,California,San Francisco,Business,Middle,Intermediate,Intermediate,English,47,1.7,Online Course,Medium,116
+Stephanie Marks,17,Female,USA,California,Los Angeles,Business,High,Advanced,Intermediate,Science,56,2.2,Practice Worksheet,Advanced,97
+Thomas Jenkins,6,Female,Australia,Victoria,Geelong,Teacher,Middle,Intermediate,Beginner,English,91,2.7,Interactive Quiz,Advanced,87
+Colleen Moreno,17,Male,Canada,British Columbia,Vancouver,Farmer,Middle,Advanced,Advanced,Science,70,1.6,Online Course,Medium,80
+David Marquez,14,Male,Canada,Ontario,Ottawa,Doctor,High,Intermediate,Beginner,Math,32,2.9,Practice Worksheet,Basic,130
+Christopher Morris,17,Male,USA,Texas,Houston,Doctor,Middle,Advanced,Beginner,Science,62,4.8,Interactive Quiz,Medium,94
+Katherine Pace,17,Female,Australia,New South Wales,Newcastle,Doctor,Low,Advanced,Intermediate,Math,27,4.4,Interactive Quiz,Medium,111
+Ethan Rios,13,Male,UK,Scotland,Edinburgh,Farmer,High,Intermediate,Intermediate,English,20,2,Online Course,Basic,107
+Scott Smith,8,Female,USA,California,Los Angeles,Doctor,High,Intermediate,Intermediate,Math,42,4.6,Textbook,Advanced,121
+Dennis Benson,18,Female,Canada,Ontario,Ottawa,Business,Low,Beginner,Advanced,Science,41,2.3,Textbook,Basic,82
+John Sharp,8,Female,USA,California,San Francisco,Business,Middle,Beginner,Advanced,Computer Science,44,2.6,Online Course,Advanced,125
+Erik Chang,8,Female,Australia,Queensland,Brisbane,Farmer,High,Advanced,Intermediate,Math,88,0.8,Practice Worksheet,Advanced,89
+Monica Martinez,14,Female,USA,New York,Buffalo,Farmer,Middle,Intermediate,Intermediate,History,43,1.4,Textbook,Basic,110
+Amy Monroe,10,Male,UK,Wales,Cardiff,Doctor,Middle,Intermediate,Intermediate,English,54,3.7,Practice Worksheet,Basic,92
+Patrick Lester,7,Male,Canada,Ontario,Toronto,Unemployed,Middle,Advanced,Beginner,Science,89,4.3,Textbook,Basic,130
+Kyle Ramirez,16,Male,UK,Scotland,Edinburgh,Doctor,Low,Beginner,Intermediate,Math,17,3.2,Practice Worksheet,Medium,128
+Daniel Jacobs,9,Female,India,Karnataka,Bangalore,Unemployed,High,Intermediate,Beginner,Science,24,3.9,Practice Worksheet,Basic,129
+Troy Carroll,9,Male,India,Delhi,New Delhi,Unemployed,Low,Intermediate,Beginner,Computer Science,96,3.3,Online Course,Advanced,136
+John Smith,15,Female,Canada,Ontario,Ottawa,Farmer,Middle,Intermediate,Advanced,Science,37,3.4,Practice Worksheet,Basic,114
+Daniel Aguilar,13,Male,USA,New York,Buffalo,Business,Middle,Advanced,Intermediate,Computer Science,24,5,Textbook,Basic,122
+Heather Stevens,18,Female,India,Karnataka,Bangalore,Engineer,Middle,Beginner,Beginner,Computer Science,100,4.5,Practice Worksheet,Advanced,83
+Christopher Johnson,16,Female,USA,California,San Francisco,Unemployed,Middle,Advanced,Advanced,Math,38,2.5,Practice Worksheet,Basic,138
+Greg Sandoval,17,Female,Australia,Queensland,Brisbane,Doctor,High,Advanced,Intermediate,English,13,3.5,Textbook,Medium,120
+Walter Adams,11,Male,UK,Scotland,Edinburgh,Unemployed,Middle,Advanced,Beginner,English,20,1.9,Interactive Quiz,Advanced,99
+Michael Bruce,7,Female,Canada,Quebec,Montreal,Farmer,Low,Advanced,Beginner,English,42,2,Textbook,Basic,80
+Tiffany Clark,9,Male,UK,Wales,Swansea,Farmer,Low,Intermediate,Advanced,History,4,3.5,Interactive Quiz,Basic,116
+Shelley Sullivan,14,Female,Canada,Quebec,Quebec City,Teacher,Low,Beginner,Intermediate,Math,27,4,Textbook,Advanced,117
+Tara Wilson,13,Male,Canada,Ontario,Ottawa,Teacher,Low,Intermediate,Intermediate,Math,87,3.1,Textbook,Advanced,126
+David Wilson,6,Female,UK,Scotland,Edinburgh,Doctor,Middle,Intermediate,Beginner,English,43,4.5,Video Lesson,Basic,137
+Keith Reyes,12,Male,Australia,Queensland,Brisbane,Doctor,High,Intermediate,Advanced,Math,99,4.9,Textbook,Medium,133
+Madeline Villegas,13,Male,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Beginner,Math,92,3.2,Textbook,Medium,94
+Christian Fitzpatrick,12,Male,Canada,British Columbia,Victoria,Doctor,Middle,Advanced,Advanced,Science,17,3.7,Video Lesson,Advanced,102
+Mrs. Chelsea Robinson PhD,11,Female,UK,Scotland,Glasgow,Farmer,Middle,Beginner,Intermediate,Computer Science,8,2.2,Interactive Quiz,Basic,121
+Lindsay Miller,6,Female,UK,England,Manchester,Farmer,Middle,Beginner,Beginner,Computer Science,52,2.4,Textbook,Medium,109
+Ashley Miller,16,Female,India,Delhi,New Delhi,Unemployed,Middle,Advanced,Beginner,Computer Science,25,0.7,Online Course,Advanced,129
+Rhonda Robinson,9,Female,Canada,British Columbia,Victoria,Farmer,Low,Beginner,Beginner,English,71,2.7,Textbook,Medium,118
+Catherine Malone,8,Female,India,Karnataka,Mysore,Doctor,Low,Advanced,Intermediate,History,65,1,Practice Worksheet,Advanced,123
+Travis Singh,7,Male,Australia,Queensland,Brisbane,Doctor,Middle,Intermediate,Advanced,History,37,3.6,Online Course,Advanced,140
+Katherine Castillo,16,Male,UK,Scotland,Edinburgh,Unemployed,Middle,Advanced,Intermediate,English,2,1.3,Online Course,Basic,89
+Wayne Bowers,16,Female,USA,Texas,Houston,Unemployed,Low,Intermediate,Beginner,Computer Science,62,3.2,Textbook,Basic,134
+Gina Hanson DVM,14,Male,UK,Wales,Cardiff,Teacher,Middle,Intermediate,Intermediate,Math,28,2.5,Video Lesson,Advanced,89
+Cynthia Weber,14,Female,Canada,British Columbia,Victoria,Engineer,High,Intermediate,Intermediate,English,65,2.3,Video Lesson,Basic,107
+Laurie Lewis,7,Female,Canada,Quebec,Quebec City,Farmer,Low,Intermediate,Beginner,Math,51,0.8,Online Course,Medium,81
+Benjamin Small,14,Female,USA,New York,NYC,Doctor,Low,Advanced,Intermediate,Math,17,1,Practice Worksheet,Basic,130
+David Terrell,15,Female,Canada,Quebec,Quebec City,Farmer,Middle,Intermediate,Advanced,Computer Science,69,1,Interactive Quiz,Medium,96
+Andrew King,7,Female,UK,Wales,Swansea,Business,Middle,Beginner,Advanced,Math,99,3.2,Interactive Quiz,Medium,89
+Harry Fitzgerald,13,Male,India,Delhi,New Delhi,Unemployed,Middle,Beginner,Beginner,Computer Science,60,3.4,Online Course,Medium,120
+William Smith,8,Male,India,Maharashtra,Pune,Doctor,Low,Advanced,Beginner,Math,43,4,Video Lesson,Advanced,131
+Laura Berry,12,Female,USA,New York,NYC,Teacher,Low,Beginner,Advanced,History,43,2.1,Video Lesson,Medium,122
+Michael Oconnell,15,Female,UK,Scotland,Glasgow,Engineer,Low,Beginner,Advanced,History,13,4.4,Online Course,Basic,84
+Katherine Harris,18,Male,Canada,Ontario,Ottawa,Unemployed,High,Beginner,Intermediate,Computer Science,87,1.2,Video Lesson,Advanced,102
+Deborah Barnes,17,Male,UK,England,London,Teacher,Low,Advanced,Intermediate,English,30,1.1,Practice Worksheet,Medium,111
+Billy Hall,13,Male,UK,Scotland,Glasgow,Teacher,Low,Advanced,Advanced,Science,99,3.9,Practice Worksheet,Medium,113
+Joseph Rasmussen,10,Male,USA,California,San Francisco,Teacher,Low,Beginner,Beginner,Science,27,3.5,Online Course,Medium,81
+Karina Jackson,14,Female,India,Delhi,New Delhi,Unemployed,High,Beginner,Beginner,English,69,0.8,Practice Worksheet,Advanced,114
+Evan Mccall,12,Male,Australia,Queensland,Gold Coast,Teacher,High,Beginner,Beginner,History,39,3.6,Online Course,Basic,139
+Jessica Roach,14,Female,India,Delhi,New Delhi,Farmer,Middle,Intermediate,Beginner,Computer Science,96,4,Online Course,Advanced,111
+Robert Gonzalez,11,Male,USA,New York,Buffalo,Doctor,Low,Beginner,Advanced,Science,0,1.9,Practice Worksheet,Basic,116
+Taylor Pratt,10,Female,India,Maharashtra,Mumbai,Business,High,Beginner,Intermediate,History,77,2.7,Online Course,Medium,80
+Ashley Lane,13,Female,Canada,Ontario,Toronto,Teacher,Middle,Advanced,Beginner,History,47,4.2,Online Course,Medium,84
+William Barnett,6,Female,Australia,Queensland,Brisbane,Unemployed,Middle,Intermediate,Advanced,History,2,0.6,Textbook,Medium,86
+Jordan Mitchell,13,Male,UK,England,London,Teacher,High,Advanced,Advanced,Math,83,1.9,Video Lesson,Advanced,111
+Beth Ritter,7,Male,USA,California,San Francisco,Business,Low,Intermediate,Beginner,Math,44,0.8,Interactive Quiz,Medium,133
+Chase Humphrey,9,Male,UK,Scotland,Glasgow,Business,High,Advanced,Beginner,History,18,0.6,Practice Worksheet,Basic,105
+Johnny Thompson,17,Female,Canada,Quebec,Quebec City,Teacher,High,Intermediate,Beginner,Science,18,0.9,Online Course,Basic,88
+Patrick Green,7,Male,Australia,Victoria,Geelong,Doctor,High,Advanced,Intermediate,Computer Science,42,0.6,Video Lesson,Advanced,123
+Marie Nguyen,11,Male,UK,Wales,Swansea,Unemployed,Middle,Intermediate,Beginner,History,11,4.9,Interactive Quiz,Medium,89
+Jodi Mitchell,10,Female,UK,Scotland,Glasgow,Farmer,Middle,Beginner,Beginner,Science,91,2.4,Video Lesson,Medium,114
+Mark Myers,11,Male,USA,Texas,Houston,Engineer,High,Intermediate,Advanced,History,55,1.1,Video Lesson,Medium,99
+Donald Mcdaniel,7,Male,UK,Scotland,Edinburgh,Engineer,High,Beginner,Advanced,History,84,2,Textbook,Advanced,96
+Vincent Jones,14,Male,UK,England,Manchester,Unemployed,High,Intermediate,Beginner,Math,14,0.5,Video Lesson,Advanced,129
+Mrs. Elizabeth Perez,16,Female,India,Delhi,New Delhi,Farmer,Low,Advanced,Beginner,Science,73,1.1,Practice Worksheet,Basic,94
+Michael Vaughn,12,Male,Australia,Queensland,Brisbane,Doctor,High,Intermediate,Beginner,Computer Science,9,1,Textbook,Medium,96
+Walter Lee,17,Female,USA,California,Los Angeles,Doctor,High,Advanced,Advanced,English,90,1.7,Online Course,Basic,119
+Tina Delgado,17,Female,UK,Wales,Cardiff,Engineer,Middle,Beginner,Advanced,Math,20,1.9,Video Lesson,Advanced,127
+Alejandro Smith,12,Male,UK,Wales,Swansea,Farmer,Middle,Beginner,Advanced,English,48,0.6,Video Lesson,Advanced,80
+Cynthia Dillon,6,Female,Australia,Queensland,Brisbane,Business,Low,Intermediate,Beginner,Computer Science,31,3,Video Lesson,Basic,136
+Candace Bridges,14,Female,India,Karnataka,Mysore,Farmer,High,Advanced,Intermediate,History,11,1.2,Interactive Quiz,Basic,127
+Jose Bennett,6,Male,UK,Scotland,Glasgow,Teacher,High,Beginner,Intermediate,English,11,2.4,Textbook,Basic,135
+Shari Warner,14,Male,USA,New York,NYC,Teacher,High,Intermediate,Beginner,Science,83,4.6,Online Course,Medium,120
+Victoria Alvarez,12,Female,Canada,Ontario,Ottawa,Engineer,High,Intermediate,Advanced,Computer Science,94,3.7,Online Course,Basic,86
+Thomas Willis,6,Male,UK,Wales,Cardiff,Doctor,Low,Beginner,Beginner,English,24,1.9,Online Course,Medium,130
+Shelly Roman,14,Male,Australia,Queensland,Brisbane,Teacher,Middle,Beginner,Advanced,Science,94,2,Interactive Quiz,Basic,83
+Cynthia Pittman,12,Female,Australia,Queensland,Brisbane,Unemployed,Middle,Beginner,Advanced,History,74,3.5,Video Lesson,Medium,90
+Angela English,11,Male,Canada,Quebec,Quebec City,Doctor,High,Intermediate,Beginner,Math,98,0.7,Online Course,Medium,131
+Nicholas Riley,17,Male,Australia,Queensland,Brisbane,Teacher,High,Advanced,Beginner,Science,35,0.5,Textbook,Medium,103
+Stephanie Smith,8,Female,USA,California,San Francisco,Teacher,Middle,Beginner,Intermediate,History,26,3.1,Online Course,Basic,135
+Valerie Smith,15,Male,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Intermediate,Math,8,4,Interactive Quiz,Basic,82
+Anthony Chapman,10,Female,India,Delhi,New Delhi,Farmer,High,Beginner,Intermediate,Math,66,4.4,Online Course,Advanced,80
+Theodore Williams,14,Female,UK,England,London,Teacher,Middle,Advanced,Advanced,English,97,4.7,Video Lesson,Basic,103
+Haley Walton,10,Female,Canada,Ontario,Toronto,Doctor,Middle,Intermediate,Advanced,Science,72,4.7,Textbook,Advanced,127
+Christina Powell,12,Female,USA,California,Los Angeles,Teacher,Middle,Intermediate,Intermediate,Math,76,4,Video Lesson,Basic,129
+Scott Parks,15,Female,UK,Wales,Swansea,Teacher,High,Intermediate,Beginner,English,1,4.1,Interactive Quiz,Advanced,114
+Misty Vang,10,Male,Canada,Quebec,Quebec City,Unemployed,High,Intermediate,Beginner,Science,37,0.7,Practice Worksheet,Basic,118
+Brandon Moreno,6,Male,India,Karnataka,Bangalore,Business,Middle,Beginner,Intermediate,Computer Science,20,3.5,Practice Worksheet,Medium,126
+Gerald Goodwin,11,Male,USA,California,San Francisco,Teacher,Low,Beginner,Advanced,Science,20,2.7,Textbook,Advanced,128
+Sarah Romero,14,Female,UK,Scotland,Glasgow,Teacher,Low,Advanced,Intermediate,Computer Science,57,2,Practice Worksheet,Advanced,82
+Douglas Williams,15,Male,Canada,Quebec,Montreal,Farmer,Middle,Advanced,Advanced,English,60,2.3,Interactive Quiz,Advanced,98
+Christine Rowe,18,Male,Australia,Victoria,Melbourne,Farmer,Middle,Advanced,Beginner,History,24,2.5,Textbook,Medium,111
+Cameron Lucas,6,Female,USA,Texas,Houston,Business,Low,Intermediate,Beginner,History,30,2.7,Textbook,Medium,134

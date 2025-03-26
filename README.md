@@ -16,7 +16,6 @@ Personal AI-Based Tutor is a machine learning-powered system that recommends per
 
 - **Python** (pandas, numpy, seaborn, matplotlib, scikit-learn)
 - **Machine Learning** (RandomForestRegressor, Label Encoding, Standard Scaling)
-- **Flask/Django (Optional)** for API backend
 - **Web Integration** (webbrowser module to open links)
 - **Git & GitHub** for version control
 
@@ -54,7 +53,7 @@ Personal AI-Based Tutor is a machine learning-powered system that recommends per
 
 ## Future Enhancements
 
-- Integrating **Generative AI (Maya AI)** for interactive explanations.
+- Integrating **Generative AI** for interactive explanations.
 - Developing a **Web Application** for better user experience.
 - Adding a **Student Dashboard** with performance tracking.
 

@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by **Payel Mallik**
+Developed by **Payel Mallik**.
 
